@@ -87,5 +87,3 @@ REST API: handleClient() parses HTTP requests and returns JSON responses.
 task_blink() → toggles LED
 
 task_printer() → prints task info to Serial
-
-This project is licensed under the MIT License – see the LICENSE file for details.
