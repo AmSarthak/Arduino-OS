@@ -1,6 +1,6 @@
-**Arduino Mini Task Scheduler with WiFi REST API**
+**Arduino Mini OS with WiFi REST API**
 
-This project demonstrates a simple task scheduler for Arduino using the Arduino Uno R4 WiFi (or similar boards) that can run multiple tasks on a periodic basis. It includes a REST API to start, stop, toggle, and view tasks over WiFi. A blinking LED and serial console printing are implemented as example tasks.
+This project demonstrates a simple OS for Arduino that has a task scheduler using the Arduino Uno R4 WiFi (or similar boards) that can run multiple tasks on a periodic basis. It includes a REST API to start, stop, toggle, and view tasks over WiFi. A blinking LED and serial console printing are implemented as example tasks.
 
 **Features**
 
